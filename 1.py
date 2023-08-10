@@ -5,6 +5,7 @@ y = 2
 print("Hello")
 
 
-kjsdhfkjh
-lskjdflkjsdf
-lksjdflkj
+kjsdhfkjh = 2
+lskjdflkjsdf = 4
+lksjdflkj = 555
+
